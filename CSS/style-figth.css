@@ -21,11 +21,3 @@ body {
     width: 200px;
     height: 200px;
 }
-
-.life-bar{
-    background-color: green;
-}
-
-.enemy-container{
-    flex-flow: column;
-}
