@@ -1,0 +1,31 @@
+.background-pokemon {
+    background: url('https://orig00.deviantart.net/a88f/f/2014/325/6/6/or_as_battle_background_1b_by_phoenixoflight92-d874gjl.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.background-menu {
+    background-color: bisque;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(15, 15, 15, 0.562);
+}
+
+.img-poke{
+    width: 200px;
+    height: 200px;
+}
+
+.life-bar{
+    background-color: green;
+}
+
+.enemy-container{
+    flex-flow: column;
+}
